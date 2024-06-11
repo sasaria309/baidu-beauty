@@ -8,6 +8,4 @@ This repository contains a Python script for scraping information about . The sc
 
 ```sh
 git clone https://github.com/yourusername/baidu-beauty-scraper.git
-cd baidu-beauty-scraper
-# 指纹浏览器再登陆账号，会提示新设备？
 no worlds to say
