@@ -11,3 +11,4 @@ git clone https://github.com/yourusername/baidu-beauty-scraper.git
 no worlds to say
 每天坚持打卡
 不得不信
+非常实用的功能
