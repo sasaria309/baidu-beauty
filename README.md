@@ -9,3 +9,4 @@ This repository contains a Python script for scraping information about . The sc
 ```sh
 git clone https://github.com/yourusername/baidu-beauty-scraper.git
 no worlds to say
+可不可以
