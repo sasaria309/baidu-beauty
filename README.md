@@ -13,4 +13,3 @@ no worlds to say
 short vedio is so hart
 也许有一种可能就是，比较排斥自己
 我现在需要做什么？
-老牛耕田老牛做，老牛吃草不放弃
